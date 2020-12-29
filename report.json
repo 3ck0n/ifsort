@@ -1,0 +1,30 @@
+[
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\DSC00001.JPG",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2007\\08 August\\22 .\\DSC00001.JPG"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\DSC00010.JPG",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2007\\08 August\\23 .\\DSC00010.JPG"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\!!! haa 2006\\Bild002.jpg",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2005\\08 August\\05 !!!-haa-2006\\Bild002.jpg"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\aaa4 45 raba\\20181227_190029.jpg",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2018\\12 December\\27 aaa4-45-raba\\20181227_190029.jpg"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\aaa4 45 raba\\20190114_155939.jpg",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2019\\01 January\\14 aaa4-45-raba\\20190114_155939.jpg"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\ttvisit\\exhaa logic\\20181227_190029.jpg",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2018\\12 December\\27 ttvisit_exhaa-logic\\20181227_190029.jpg"
+    },
+    {
+        "file": "D:\\Projekte\\ifsort\\sample\\ttvisit\\exhaa logic\\20190114_155939.jpg",
+        "move": "D:\\Projekte\\ifsort\\target\\Rohdaten 2019\\01 January\\14 ttvisit_exhaa-logic\\20190114_155939.jpg"
+    }
+]
