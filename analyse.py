@@ -14,7 +14,10 @@ Idea is to sort a chaotic file structure to a scheme like
      - DD name of series
        - Original files
 """
-filedict = []
+
+source = pathlib.Path.cwd() / 'sample' # source directory
+target = pathlib.Path.cwd() / 'target' # target directory
+filedict = [] # List with files
 
 
 def get_modified_datetime(file: pathlib):
@@ -63,8 +66,7 @@ def analyse(source_directory, target_directory = '.'):
 
     print('!')
 
-source = pathlib.Path.cwd() / 'sample'
-target = pathlib.Path.cwd() / 'target'
+
 
 print(f'Analyse {source} recursive')
 analyse(source, target)
