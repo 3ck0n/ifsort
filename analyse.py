@@ -38,6 +38,8 @@ def gen_folder_name(day, rpath: pathlib):
     spath = spath.replace(' ', '-')
     spath = spath.replace('\\', '_')
     spath = spath.lower()
+    if spath == '.':
+        spath = 'Day'
     return f"{sday} {spath}"
 
 def gen_relativ_path(modified, folder, file):
